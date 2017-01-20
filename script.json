@@ -1,7 +1,9 @@
 {
     "BOT": "Oh hi !\nI’m the personal bot of Moojan, an entrepreneur from Iran.\n![Moojan](https://github.com/Traxyco/moobot/blob/master/img/moojan.asgharilavarjani.jpg)\nWant to know more about about Moojan?  %[Learn about Moojan](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you reached out to MooBot! Do you want I tell Moojan that you're talking to me? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Moojan so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Moojan](http://bit.ly/2k8DP9i)",
+    "HELLO": "Hey, I'm so glad you've set up to MooBot! Do you want I tell Moojan that you're talking to me? %[Tell her](postback:twitter)",
+    "HI": "Hey, I'm so glad you've set up to MooBot! Do you want I tell Moojan that you're talking to me? %[Tell her](postback:twitter)",
+    "HEY": "Hey, I'm so glad you've set up to MooBot! Do you want I tell Moojan that you're talking to me? %[Tell her](postback:twitter)",
+    "TELL HER": "Let's tweet @ Moojan so she knows tried to reach out her. Here's a tweet that's ready to go: %[Tweet Moojan](http://bit.ly/2k8DP9i)",
     "I LOVE YOU": "OMG, let's stay friends! I need to concentrate on my work!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, MooBot is back."
